@@ -2,8 +2,6 @@
 
 This is a command line implementation of the classic code-guessing game :)
 
-> Note: This is created as part of The Odin Project's Ruby course in their Ruby on Rails path.
-
 ## **Running the Game**
 
 ### **Option 1: Run Remotely**
@@ -51,4 +49,4 @@ When you run the game, follow the on-screen instructions which will guide you th
 ## **Computer Logic**
 
 If you choose to be the codemaker, the computer will use the Swaszek algorithm to guess your secret code in an average of five guesses.  
-Pretty cool, eh?
+Pretty cool :')
